@@ -72,9 +72,13 @@
         border: solid green 1px;
         margin-left: 25%;
    }
-   #header-container>h1 {
-    margin-left: 25%;
-  
+   #header-container>img {
+    height: 60px;
+       width:85px:
 
 }
+    #header-container>h1 {
+      font-size: 20px
+}
+
 }
